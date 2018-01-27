@@ -1,7 +1,7 @@
 https://tinyurl.com/bklib127
 
 
-  [](https://goo.gl/forms/aCK2k6G1qq3AtJzF2)
+  [two questions](https://goo.gl/forms/aCK2k6G1qq3AtJzF2)
 
 	1. Review HTML
 		a. With a partner, go to repl.it and make an img using html
